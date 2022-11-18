@@ -1,0 +1,2 @@
+First Text file.
+This is a git practice session.
